@@ -1,4 +1,4 @@
-# LECTURE-2
+# LECTURE-3
 It contains website designing
 ## Details
 i was born in 2003
@@ -10,4 +10,4 @@ dir
 git clone
 desktop
 open vsc
-select the foldersssss
+select the folder
